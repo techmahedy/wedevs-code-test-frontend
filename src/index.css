@@ -1,0 +1,18 @@
+.wrapper-start{
+    margin-top:50px;
+}
+.dataTables_wrapper .dataTables_filter {
+    float: right;
+    text-align: right;
+    margin-bottom: 23px;
+}
+.dataTables_wrapper .dataTables_length {
+    float: left;
+    margin-top: 10px;
+}
+.btn-success {
+    margin-right: 5px;
+}
+.d-flex.justify-content-between {
+    margin-bottom: 20px;
+}
